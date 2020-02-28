@@ -70,7 +70,9 @@
 
 }
 
-
+.text-hate{
+  cursor: pointer;
+}
 .main-text{
   font-size: 35px;
   letter-spacing: 10px;
@@ -93,6 +95,10 @@
   margin-top: 0px;
   font-size: 12px;
 
+}
+
+.text-manifiesto{
+  font-size: 0.9em;
 }
 
 .text-manifiesto-mobile{
