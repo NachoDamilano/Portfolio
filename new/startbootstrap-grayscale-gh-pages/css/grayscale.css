@@ -41,8 +41,8 @@
 
 }
 
-.btn-rounded{
-  border-radius: 30px;
+.link-port{
+  color: black !important;  
 }
 .new-text{
   font-size: 24px;
@@ -76,6 +76,29 @@
   letter-spacing: 10px;
   font-family: Minion;
 }
+
+.main-text-mobile{
+  font-size: 17px;
+  letter-spacing: 4px;
+  font-family: Minion;
+}
+
+
+.text-x-left-mobile{
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+
+.text-x-right-mobile{
+  margin-top: 0px;
+  font-size: 12px;
+
+}
+
+.text-manifiesto-mobile{
+  font-size: 13px;
+}
+
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
   background-color: transparent;
@@ -325,7 +348,7 @@ a:focus, a:hover {
 }
 
 .bg-black {
-  background-color: #161616 !important;
+  background-color: #e4e4e4 !important;
 }
 
 .bg-primary {
