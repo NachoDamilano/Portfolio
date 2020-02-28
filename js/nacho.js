@@ -20,6 +20,7 @@ function animateCSS(element, animationName, callback) {
     element.addEventListener('animationend', function(){ 
      
      $(".new-text").removeClass("sr-only")
+     $(".text-hate").addClass("sr-only")
      animateCSS(".new-text","fadeIn")
      })
 
